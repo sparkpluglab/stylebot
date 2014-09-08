@@ -1,0 +1,98 @@
+2:clothing
+3:dresses, 2:clothing
+4:day dresses, 3:dresses, 2:clothing
+5:cocktail dresses, 3:dresses, 2:clothing
+6:gowns, 3:dresses, 2:clothing
+7:skirts, 2:clothing
+8:mini skirt, 7:skirts, 2:clothing
+9:knee length skirts, 7:skirts, 2:clothing
+10:long skirts, 7:skirts, 2:clothing
+11:tops, 2:clothing
+17:blouses, 11:tops, 2:clothing
+18:cardigans, 11:tops, 2:clothing
+19:sweaters, 11:tops, 2:clothing
+20:sweatshirts & hoodies, 11:tops, 2:clothing
+4495:sweatshirts, 20:sweatshirts & hoodies, 11:tops, 2:clothing
+4496:hoodies, 20:sweatshirts & hoodies, 11:tops, 2:clothing
+104:tank tops, 11:tops, 2:clothing
+21:t-shirts, 11:tops, 2:clothing
+15:tunics, 11:tops, 2:clothing
+23:outerwear, 2:clothing
+24:coats, 23:outerwear, 2:clothing
+25:jackets, 23:outerwear, 2:clothing
+236:blazers, 25:jackets, 23:outerwear, 2:clothing
+26:vests, 23:outerwear, 2:clothing
+27:jeans, 2:clothing
+238:bootcut jeans, 27:jeans, 2:clothing
+240:boyfriend jeans, 27:jeans, 2:clothing
+4452:flared jeans, 27:jeans, 2:clothing
+237:skinny jeans, 27:jeans, 2:clothing
+310:straight leg jeans, 27:jeans, 2:clothing
+239:wide leg jeans, 27:jeans, 2:clothing
+28:pants, 2:clothing
+332:capri & cropped pants, 28:pants, 2:clothing
+241:leggings, 28:pants, 2:clothing
+29:shorts, 2:clothing
+242:jumpsuits & rompers,  2:clothing
+243:jumpsuits,  242:jumpsuits & rompers,  2:clothing
+244:rompers, 242:jumpsuits & rompers,  2:clothing
+108:intimates,  2:clothing
+245:bras, 108:intimates,  2:clothing
+247:camisoles, 108:intimates,  2:clothing
+248:chemises, 108:intimates,  2:clothing
+68:hosiery, 108:intimates,  2:clothing
+69:socks, 108:intimates,  2:clothing
+251:tights, 108:intimates,  2:clothing
+31:swimwear, 2:clothing
+1605:bikinis, 31:swimwear, 2:clothing
+1606:one piece, 31:swimwear, 2:clothing
+1607:cover ups, 31:swimwear, 2:clothing
+33:activewear, 2:clothing
+256:activewear jackets, 33:activewear, 2:clothing
+253:activewear pants, 33:activewear, 2:clothing
+255:activewear shorts, 33:activewear, 2:clothing
+254:activewear skirts, 33:activewear, 2:clothing
+257:sports bras, 33:activewear, 2:clothing
+309:activewear tank tops, 33:activewear, 2:clothing
+252:activewear tops, 33:activewear, 2:clothing
+35:bags
+259:backpacks, 35:bags
+318:handbags, 35:bags
+38:clutches, 318:handbags, 35:bags
+37:shoulder, 318:handbags, 35:bags
+36:totes, 318:handbags, 35:bags
+258:messenger bags, 35:bags
+40:wallets,  35:bags
+41:shoes
+268:athletic shoes, 41:shoes
+42:boots, 41:shoes
+261:ankle booties, 42:boots, 41:shoes
+262:mid calf boots, 42:boots, 41:shoes
+263:knee high boots, 42:boots, 41:shoes
+264:over the knee boots, 42:boots, 41:shoes
+267:clogs, 41:shoes
+47:flats, 41:shoes
+265:loafers & moccasins, 41:shoes
+266:oxfords, 41:shoes
+43:pumps, 41:shoes
+46:sandals, 41:shoes
+48:flip flops, 46:sandals, 41:shoes
+49:sneakers, 41:shoes
+60:jewelery
+106:bracelets & bangles, 60:jewelery
+67:brooches, 60:jewelery
+107:charms & pendants, 60:jewelery
+64:earrings, 60:jewelery
+62:necklaces, 60:jewelery
+65:rings, 60:jewelery
+61:watches, 60:jewelery
+51:accessories
+52:belts, 51:accessories
+4426:eyewear, 51:accessories
+4428:eyeglasses, 51:accessories
+57:sunglasses, 51:accessories
+53:gloves, 51:accessories
+58:hair accessories, 51:accessories
+55:hats, 51:accessories
+105:scarves, 51:accessories
+222:nail polish, 51:accessories

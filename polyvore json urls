@@ -1,0 +1,6 @@
+Thing with Id
+http://www.polyvore.com/cgi/thing?.in=json&.out=json&request={"id":"88394840"}
+Set with Id
+http://www.polyvore.com/cgi/set.load?.in=json&.out=json&request={"id":"89336430"}
+search with Id
+http://www.polyvore.com/cgi/search.sets?.in=json&.out=json&request={"query":"jeans","page":1}

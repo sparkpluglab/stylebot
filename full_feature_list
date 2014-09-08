@@ -1,0 +1,811 @@
+3,clothing_dresses,clothing,dresses
+7,clothing_skirts,clothing,skirts
+11,clothing_tops,clothing,tops
+23,clothing_outerwear,clothing,outerwear
+27,clothing_jeans,clothing,jeans
+28,clothing_pants,clothing,pants
+29,clothing_shorts,clothing,shorts
+242,clothing_jumpsuits & rompers,clothing,jumpsuits & rompers
+108,clothing_intimates,clothing,intimates
+31,clothing_swimwear,clothing,swimwear
+33,clothing_activewear,clothing,activewear
+259,bags_backpacks,bags,backpacks
+318,bags_handbags,bags,handbags
+258,bags_messenger bags,bags,messenger bags
+40,bags_wallets,bags,wallets
+268,shoes_athletic shoes,shoes,athletic shoes
+42,shoes_boots,shoes,boots
+267,shoes_clogs,shoes,clogs
+47,shoes_flats,shoes,flats
+265,shoes_loafers & moccasins,shoes,loafers & moccasins
+266,shoes_oxfords,shoes,oxfords
+43,shoes_pumps,shoes,pumps
+46,shoes_sandals,shoes,sandals
+49,shoes_sneakers,shoes,sneakers
+106,jewelery_bracelets & bangles,jewelery,bracelets & bangles
+67,jewelery_brooches,jewelery,brooches
+107,jewelery_charms & pendants,jewelery,charms & pendants
+64,jewelery_earrings,jewelery,earrings
+62,jewelery_necklaces,jewelery,necklaces
+65,jewelery_rings,jewelery,rings
+61,jewelery_watches,jewelery,watches
+52,accessories_belts,accessories,belts
+4426,accessories_eyewear,accessories,eyewear
+4428,accessories_eyeglasses,accessories,eyeglasses
+57,accessories_sunglasses,accessories,sunglasses
+53,accessories_gloves,accessories,gloves
+58,accessories_hair accessories,accessories,hair accessories
+55,accessories_hats,accessories,hats
+105,accessories_scarves,accessories,scarves
+222,accessories_nail polish,accessories,nail polish
+-1,TopStyles_Pullover,TopStyles, Pullover
+-1,TopStyles_Basic,TopStyles, Basic
+-1,TopStyles_Workout,TopStyles, Workout
+-1,TopStyles_Tunics,TopStyles, Tunics
+-1,TopStyles_Cardigans,TopStyles, Cardigans
+-1,TopStyles_Henley,TopStyles, Henley
+-1,TopStyles_Compression,TopStyles, Compression
+-1,TopStyles_BaseLayer,TopStyles, Base Layer
+-1,TopStyles_Jersey,TopStyles, Jersey
+-1,TopStyles_Wraps,TopStyles, Wraps
+-1,TopStyles_Halter,TopStyles, Halter
+-1,TopStyles_DolmanSleeve,TopStyles, Dolman Sleeve
+-1,TopStyles_Camisoles,TopStyles, Camisoles
+-1,TopStyles_Other,TopStyles, Other
+-1,TopStyles_Polos,TopStyles, Polos
+-1,TopStyles_Vests,TopStyles, Vests
+-1,TopStyles_BabyDoll,TopStyles, Baby Doll
+-1,TopStyles_Tanktops,TopStyles, Tanktops
+-1,TopStyles_TubeTops,TopStyles, Tube Tops
+-1,TopStyles_Shrug,TopStyles, Shrug
+-1,TopStyles_Scrubs,TopStyles, Scrubs
+-1,TopStyles_OneShoulder,TopStyles, One Shoulder
+-1,TopStyles_Turtlenecks,TopStyles, Turtlenecks
+-1,TopStyles_Bandeau,TopStyles, Bandeau
+-1,TopStyles_Bodysuits,TopStyles, Bodysuits
+-1,CollarStyle_Crew,CollarStyle, Crew
+-1,CollarStyle_Scoop,CollarStyle, Scoop
+-1,CollarStyle_V-neck,CollarStyle, V-neck
+-1,CollarStyle_Spread,CollarStyle, Spread
+-1,CollarStyle_Point,CollarStyle, Point
+-1,CollarStyle_Boatneck,CollarStyle, Boatneck
+-1,CollarStyle_Sweetheart,CollarStyle, Sweetheart
+-1,CollarStyle_Buttondown,CollarStyle, Button down
+-1,CollarStyle_NotchLapel,CollarStyle, Notch Lapel
+-1,CollarStyle_Cowl,CollarStyle, Cowl
+-1,CollarStyle_TraditionalCollar,CollarStyle, Traditional Collar
+-1,CollarStyle_Keyhole,CollarStyle, Keyhole
+-1,CollarStyle_Mandarin,CollarStyle, Mandarin
+-1,CollarStyle_SquareNeck,CollarStyle, Square Neck
+-1,CollarStyle_1/4Zip,CollarStyle, 1/4 Zip
+-1,CollarStyle_Wide,CollarStyle, Wide
+-1,CollarStyle_1/2Zip,CollarStyle, 1/2 Zip
+-1,CollarStyle_Shawl,CollarStyle, Shawl
+-1,CollarStyle_MockTurtleneck,CollarStyle, Mock Turtleneck
+-1,CollarStyle_Banded,CollarStyle, Banded
+-1,CollarStyle_OffTheShoulder,CollarStyle, Off The Shoulder
+-1,CollarStyle_Snap,CollarStyle, Snap
+-1,CollarStyle_Turtleneck,CollarStyle, Turtleneck
+-1,CollarStyle_PeterPan,CollarStyle, Peter Pan
+-1,CollarStyle_Ballet,CollarStyle, Ballet
+-1,Pattern_Logo,Pattern, Logo
+-1,Pattern_FloralPrint,Pattern, Floral Print
+-1,Pattern_HorizontalStripes,Pattern, Horizontal Stripes
+-1,Pattern_Metallic,Pattern, Metallic
+-1,Pattern_AnimalPrint,Pattern, Animal Print
+-1,Pattern_GraphicPrint,Pattern, Graphic Print
+-1,Pattern_Stripes,Pattern, Stripes
+-1,Pattern_Distressed,Pattern, Distressed
+-1,Pattern_Plaid,Pattern, Plaid
+-1,Pattern_SnakePrint,Pattern, Snake Print
+-1,Pattern_Quilted,Pattern, Quilted
+-1,Pattern_Geometric,Pattern, Geometric
+-1,Pattern_PolkaDot,Pattern, Polka Dot
+-1,Pattern_Lace,Pattern, Lace
+-1,Pattern_VerticalStripes,Pattern, Vertical Stripes
+-1,Pattern_Woven,Pattern, Woven
+-1,Pattern_Embroidered,Pattern, Embroidered
+-1,Pattern_LeopardPrint,Pattern, Leopard Print
+-1,Pattern_Paisley,Pattern, Paisley
+-1,Pattern_Camo,Pattern, Camo
+-1,Pattern_Artwork,Pattern, Artwork
+-1,Pattern_Crocodile,Pattern, Crocodile
+-1,Pattern_Reptile,Pattern, Reptile
+-1,Pattern_Checkered,Pattern, Checkered
+-1,Pattern_Jacquard,Pattern, Jacquard
+-1,Pattern_BasketWeave,Pattern, Basket Weave
+-1,Pattern_Chevron,Pattern, Chevron
+-1,Pattern_Abstract,Pattern, Abstract
+-1,Pattern_Tie-Dye,Pattern, Tie-Dye
+-1,Pattern_Herringbone,Pattern, Herringbone
+-1,Pattern_ZebraPrint,Pattern, Zebra Print
+-1,Pattern_PinStripes,Pattern, Pin Stripes
+-1,Pattern_CheetahPrint,Pattern, Cheetah Print
+-1,Pattern_Tropical,Pattern, Tropical
+-1,Pattern_Screenprint,Pattern, Screenprint
+-1,Pattern_Heart,Pattern, Heart
+-1,Pattern_Gingham,Pattern, Gingham
+-1,Pattern_Dip-Dyed,Pattern, Dip-Dyed
+-1,Pattern_Sateen,Pattern, Sateen
+-1,Pattern_Argyle,Pattern, Argyle
+-1,Pattern_Skull,Pattern, Skull
+-1,Pattern_Tribal,Pattern, Tribal
+-1,Pattern_Houndstooth,Pattern, Houndstooth
+-1,Pattern_Patchwork,Pattern, Patchwork
+-1,Pattern_Asian,Pattern, Asian
+-1,Pattern_Burnished,Pattern, Burnished
+-1,Pattern_Exotics,Pattern, Exotics
+-1,Pattern_Script,Pattern, Script
+-1,Pattern_TooledLeather,Pattern, Tooled Leather
+-1,Pattern_Flames,Pattern, Flames
+-1,Pattern_Tortoise,Pattern, Tortoise
+-1,Pattern_OiledLeather,Pattern, Oiled Leather
+-1,Pattern_Brocade,Pattern, Brocade
+-1,Pattern_Boucle,Pattern, Boucle
+-1,Pattern_Crochet,Pattern, Crochet
+-1,Pattern_Damask,Pattern, Damask
+-1,Pattern_GiraffePrint,Pattern, Giraffe Print
+-1,Pattern_TattooPrint,Pattern, Tattoo Print
+-1,Pattern_CrinkledLeather,Pattern, Crinkled Leather
+-1,Pattern_Glitter,Pattern, Glitter
+-1,Pattern_Chrome,Pattern, Chrome
+-1,Pattern_Pearlized,Pattern, Pearlized
+-1,Pattern_PebbledLeather,Pattern, Pebbled Leather
+-1,Pattern_Seersucker,Pattern, Seersucker
+-1,Accents_Logo,Accents, Logo
+-1,Accents_ContrastStitching,Accents, Contrast Stitching
+-1,Accents_Embroidered,Accents, Embroidered
+-1,Accents_Studded,Accents, Studded
+-1,Accents_Buckle,Accents, Buckle
+-1,Accents_Bows,Accents, Bows
+-1,Accents_Cut-Outs,Accents, Cut-Outs
+-1,Accents_Screenprint,Accents, Screenprint
+-1,Accents_Perforated,Accents, Perforated
+-1,Accents_Ruched,Accents, Ruched
+-1,Accents_Charms,Accents, Charms
+-1,Accents_Piping,Accents, Piping
+-1,Accents_Pleated,Accents, Pleated
+-1,Accents_Flowers,Accents, Flowers
+-1,Accents_Rhinestones,Accents, Rhinestones
+-1,Accents_Beaded,Accents, Beaded
+-1,Accents_Crystals,Accents, Crystals
+-1,Accents_Appliqué,Accents, Appliqué
+-1,Accents_Ruffles,Accents, Ruffles
+-1,Accents_Bit,Accents, Bit
+-1,Accents_Tassels,Accents, Tassels
+-1,Accents_Glitter,Accents, Glitter
+-1,Accents_Embossed,Accents, Embossed
+-1,Accents_Fringe,Accents, Fringe
+-1,Accents_Eyelets,Accents, Eyelets
+-1,Accents_Buttons,Accents, Buttons
+-1,Accents_Sequins,Accents, Sequins
+-1,Accents_Braid,Accents, Braid
+-1,Accents_Zipper,Accents, Zipper
+-1,Accents_PennyKeeper,Accents, Penny Keeper
+-1,Accents_Quilted,Accents, Quilted
+-1,Accents_Rivets,Accents, Rivets
+-1,Accents_Harness,Accents, Harness
+-1,Accents_Cuff,Accents, Cuff
+-1,Accents_Jewels,Accents, Jewels
+-1,Accents_Knot,Accents, Knot
+-1,Accents_Smocked,Accents, Smocked
+-1,Accents_Grommets,Accents, Grommets
+-1,Accents_Medallion,Accents, Medallion
+-1,Accents_Stone,Accents, Stone
+-1,Accents_TooledLeather,Accents, Tooled Leather
+-1,Accents_VampBand,Accents, Vamp Band
+-1,Accents_Chains,Accents, Chains
+-1,Accents_Belt,Accents, Belt
+-1,Accents_Skulls,Accents, Skulls
+-1,Accents_AnimalJewelry,Accents, Animal Jewelry
+-1,Accents_Peplum,Accents, Peplum
+-1,Accents_Lights,Accents, Lights
+-1,Accents_MotherofPearl,Accents, Mother of Pearl
+-1,Accents_Kiltie,Accents, Kiltie
+-1,Accents_FauxPockets,Accents, Faux Pockets
+-1,Accents_Diamond,Accents, Diamond
+-1,Accents_Epaulette,Accents, Epaulette
+-1,Accents_AntiquedJewelry,Accents, Antiqued Jewelry
+-1,Accents_Cross&CrucifixJewelry,Accents, Cross & Crucifix Jewelry
+-1,Accents_Pockets,Accents, Pockets
+-1,Accents_Stars,Accents, Stars
+-1,Accents_Feathers,Accents, Feathers
+-1,Accents_PomPoms,Accents, Pom Poms
+-1,Accents_Ribbons,Accents, Ribbons
+-1,Accents_Toggle,Accents, Toggle
+-1,Accents_MetalMesh,Accents, Metal Mesh
+-1,Accents_PeaceJewelry,Accents, Peace Jewelry
+-1,Accents_Shells,Accents, Shells
+-1,Accents_Veil,Accents, Veil
+-1,Accents_Cameo,Accents, Cameo
+-1,Accents_Mirrors,Accents, Mirrors
+-1,Accents_ItalianHorn&CornicelloJewelry,Accents, Italian Horn & Cornicello Jewelry
+-1,Accents_Pearlized,Accents, Pearlized
+-1,Accents_CharacterJewelry,Accents, Character Jewelry
+-1,Accents_GlowintheDark,Accents, Glow in the Dark
+-1,Accents_TortoiseShell,Accents, Tortoise Shell
+-1,Accents_BirthstoneJewelry,Accents, Birthstone Jewelry
+-1,Accents_CoinJewelry,Accents, Coin Jewelry
+-1,Accents_MalteseCrossJewelry,Accents, Maltese Cross Jewelry
+-1,Accents_Zodiac&Astrology,Accents, Zodiac & Astrology
+-1,Occasion_Casual,Occasion, Casual
+-1,Occasion_Athletic,Occasion, Athletic
+-1,Occasion_Outdoor,Occasion, Outdoor
+-1,Occasion_Dress,Occasion, Dress
+-1,Occasion_Office&Career,Occasion, Office & Career
+-1,Occasion_Wedding,Occasion, Wedding
+-1,Occasion_Work&Duty,Occasion, Work & Duty
+-1,Occasion_ActionSports,Occasion, Action Sports
+-1,Occasion_Evening&Cocktail,Occasion, Evening & Cocktail
+-1,Occasion_Prom&Homecoming,Occasion, Prom & Homecoming
+-1,Occasion_LittleBlackDress,Occasion, Little Black Dress
+-1,Occasion_Nightclub,Occasion, Nightclub
+-1,DressTypes_A-lineDresses,DressTypes, A-line Dresses
+-1,DressTypes_SheathDresses,DressTypes, Sheath Dresses
+-1,DressTypes_TankDresses,DressTypes, Tank Dresses
+-1,DressTypes_ShiftDresses,DressTypes, Shift Dresses
+-1,DressTypes_MaxiDresses,DressTypes, Maxi Dresses
+-1,DressTypes_StraplessDresses,DressTypes, Strapless Dresses
+-1,DressTypes_EmpireDresses,DressTypes, Empire Dresses
+-1,DressTypes_HighLowDresses,DressTypes, High Low Dresses
+-1,DressTypes_ShirtDresses,DressTypes, Shirt Dresses
+-1,DressTypes_WrapDresses,DressTypes, Wrap Dresses
+-1,DressTypes_HalterDresses,DressTypes, Halter Dresses
+-1,DressTypes_TunicDresses,DressTypes, Tunic Dresses
+-1,DressTypes_Gown,DressTypes, Gown
+-1,DressTypes_BustierDresses,DressTypes, Bustier Dresses
+-1,DressTypes_BabyDollDresses,DressTypes, Baby Doll Dresses
+-1,DressTypes_HighWaistDresses,DressTypes, High Waist Dresses
+-1,DressTypes_OneShoulderDresses,DressTypes, One Shoulder Dresses
+-1,DressTypes_DroppedWaistDresses,DressTypes, Dropped Waist Dresses
+-1,DressTypes_CoverUpDresses,DressTypes, Cover Up Dresses
+-1,DressTypes_SportDresses,DressTypes, Sport Dresses
+-1,DressTypes_SweaterDresses,DressTypes, Sweater Dresses
+-1,DressTypes_CoatDresses,DressTypes, Coat Dresses
+-1,DressTypes_Other,DressTypes, Other
+-1,SkirtLength_KneeLength,SkirtLength, Knee Length
+-1,SkirtLength_Short,SkirtLength, Short
+-1,SkirtLength_Long,SkirtLength, Long
+-1,SkirtLength_TeaLength,SkirtLength, Tea Length
+-1,SkirtLength_Asymmetrical,SkirtLength, Asymmetrical
+-1,SkirtStyles_A-line,SkirtStyles, A-line
+-1,SkirtStyles_Pencil,SkirtStyles, Pencil
+-1,SkirtStyles_Flared,SkirtStyles, Flared
+-1,SkirtStyles_Skort,SkirtStyles, Skort
+-1,SkirtStyles_Mini,SkirtStyles, Mini
+-1,SkirtStyles_Pleated,SkirtStyles, Pleated
+-1,SkirtStyles_HighLow,SkirtStyles, High Low
+-1,SkirtStyles_Wrap,SkirtStyles, Wrap
+-1,SkirtStyles_Maxi,SkirtStyles, Maxi
+-1,SkirtStyles_Other,SkirtStyles, Other
+-1,SkirtStyles_Running,SkirtStyles, Running
+-1,SkirtStyles_Peasant,SkirtStyles, Peasant
+-1,SkirtStyles_Bubble,SkirtStyles, Bubble
+-1,SkirtStyles_Scooter,SkirtStyles, Scooter
+-1,SkirtStyles_Gored,SkirtStyles, Gored
+-1,JeansFit_StraightLeg,JeansFit, Straight Leg
+-1,JeansFit_SlimFit,JeansFit, Slim Fit
+-1,JeansFit_SkinnyFit,JeansFit, Skinny Fit
+-1,JeansFit_BootCut,JeansFit, Boot Cut
+-1,JeansFit_Fitted,JeansFit, Fitted
+-1,JeansFit_RelaxedFit,JeansFit, Relaxed Fit
+-1,JeansFit_BoyfriendFit,JeansFit, Boyfriend Fit
+-1,JeansFit_RegularFit,JeansFit, Regular Fit
+-1,JeansFit_WideLeg,JeansFit, Wide Leg
+-1,JeansFit_LooseFit,JeansFit, Loose Fit
+-1,JeansFit_Flared,JeansFit, Flared
+-1,JeansFit_Other,JeansFit, Other
+-1,JeansFit_TrouserFit,JeansFit, Trouser Fit
+-1,PantStyles_Trousers,PantStyles, Trousers
+-1,PantStyles_CapriPants,PantStyles, Capri Pants
+-1,PantStyles_WorkoutPants,PantStyles, Workout Pants
+-1,PantStyles_Leggings,PantStyles, Leggings
+-1,PantStyles_LoungePants,PantStyles, Lounge Pants
+-1,PantStyles_Other,PantStyles, Other
+-1,PantStyles_CargoPants,PantStyles, Cargo Pants
+-1,PantStyles_TrackPants,PantStyles, Track Pants
+-1,PantStyles_Sweatpants,PantStyles, Sweatpants
+-1,PantStyles_ConvertiblePants,PantStyles, Convertible Pants
+-1,PantStyles_FlatFrontPants,PantStyles, Flat Front Pants
+-1,PantStyles_Chinos,PantStyles, Chinos
+-1,PantStyles_CompressionPants,PantStyles, Compression Pants
+-1,PantStyles_BaseLayer,PantStyles, Base Layer
+-1,PantStyles_SnowPants,PantStyles, Snow Pants
+-1,PantStyles_Gaucho,PantStyles, Gaucho
+-1,PantStyles_RainPants,PantStyles, Rain Pants
+-1,PantStyles_Overalls,PantStyles, Overalls
+-1,PantStyles_Scrubs,PantStyles, Scrubs
+-1,PantStyles_PleatedFrontPants,PantStyles, Pleated Front Pants
+-1,PantStyles_SchoolUniform,PantStyles, School Uniform
+-1,Rise_MidRise,Rise, Mid Rise
+-1,Rise_LowRise,Rise, Low Rise
+-1,Rise_RegularRise,Rise, Regular Rise
+-1,Rise_HighRise,Rise, High Rise
+-1,Rise_UltraLowRise,Rise, Ultra Low Rise
+-1,DenimType_StretchDenim,DenimType, Stretch Denim
+-1,DenimType_DarkWash,DenimType, Dark Wash
+-1,DenimType_MediumWash,DenimType, Medium Wash
+-1,DenimType_LightWash,DenimType, Light Wash
+-1,DenimType_Distressed,DenimType, Distressed
+-1,DenimType_StoneWash,DenimType, Stone Wash
+-1,DenimType_GarmentWash,DenimType, Garment Wash
+-1,DenimType_RawDenim,DenimType, Raw Denim
+-1,DenimType_AcidWash,DenimType, Acid Wash
+-1,DenimType_Coated,DenimType, Coated
+-1,DenimType_EnzymeWash,DenimType, Enzyme Wash
+-1,ShortStyles_Workout,ShortStyles, Workout
+-1,ShortStyles_FlatFront,ShortStyles, Flat Front
+-1,ShortStyles_WalkingShorts,ShortStyles, Walking Shorts
+-1,ShortStyles_JeanShorts,ShortStyles, Jean Shorts
+-1,ShortStyles_RunningShorts,ShortStyles, Running Shorts
+-1,ShortStyles_CargoShorts,ShortStyles, Cargo Shorts
+-1,ShortStyles_Bermuda,ShortStyles, Bermuda
+-1,ShortStyles_Basic,ShortStyles, Basic
+-1,ShortStyles_Compression,ShortStyles, Compression
+-1,ShortStyles_Pleated,ShortStyles, Pleated
+-1,ShortStyles_BikeShorts,ShortStyles, Bike Shorts
+-1,ShortStyles_Other,ShortStyles, Other
+-1,ShortStyles_Skorts,ShortStyles, Skorts
+-1,ShortStyles_BoardShorts,ShortStyles, Board Shorts
+-1,JacketTypes_Shells&Windbreakers,JacketTypes, Shells & Windbreakers
+-1,JacketTypes_WaterproofJackets,JacketTypes, Waterproof Jackets
+-1,JacketTypes_Blazers,JacketTypes, Blazers
+-1,JacketTypes_RainCoats,JacketTypes, Rain Coats
+-1,JacketTypes_FleeceJackets,JacketTypes, Fleece Jackets
+-1,JacketTypes_Vests,JacketTypes, Vests
+-1,JacketTypes_InsulatedJackets,JacketTypes, Insulated Jackets
+-1,JacketTypes_TrackJackets,JacketTypes, Track Jackets
+-1,JacketTypes_JeanJackets,JacketTypes, Jean Jackets
+-1,JacketTypes_Other,JacketTypes, Other
+-1,JacketTypes_MotorcycleJackets,JacketTypes, Motorcycle Jackets
+-1,JacketTypes_TrenchCoats,JacketTypes, Trench Coats
+-1,JacketTypes_CroppedJackets,JacketTypes, Cropped Jackets
+-1,JacketTypes_FieldJacket,JacketTypes, Field Jacket
+-1,JacketTypes_BomberJackets,JacketTypes, Bomber Jackets
+-1,JacketTypes_Anoraks,JacketTypes, Anoraks
+-1,JacketTypes_PackableJackets,JacketTypes, Packable Jackets
+-1,JacketTypes_PeaCoats,JacketTypes, Pea Coats
+-1,JacketTypes_Parkas,JacketTypes, Parkas
+-1,JacketTypes_Ponchos,JacketTypes, Ponchos
+-1,JacketTypes_Wraps,JacketTypes, Wraps
+-1,JacketTypes_Capes,JacketTypes, Capes
+-1,JacketTypes_Boleros,JacketTypes, Boleros
+-1,JacketTypes_Harrington,JacketTypes, Harrington
+-1,ShoeStyles_Athletic,ShoeStyles, Athletic
+-1,ShoeStyles_Comfort,ShoeStyles, Comfort
+-1,ShoeStyles_Thong,ShoeStyles, Thong
+-1,ShoeStyles_Wedges,ShoeStyles, Wedges
+-1,ShoeStyles_Platform,ShoeStyles, Platform
+-1,ShoeStyles_Euro,ShoeStyles, Euro
+-1,ShoeStyles_Pumps,ShoeStyles, Pumps
+-1,ShoeStyles_FlipFlops,ShoeStyles, Flip Flops
+-1,ShoeStyles_Slide,ShoeStyles, Slide
+-1,ShoeStyles_Ballerina,ShoeStyles, Ballerina
+-1,ShoeStyles_MaryJane,ShoeStyles, Mary Jane
+-1,ShoeStyles_RectangularFrames,ShoeStyles, Rectangular Frames
+-1,ShoeStyles_SchoolBag,ShoeStyles, School Bag
+-1,ShoeStyles_T-Strap,ShoeStyles, T-Strap
+-1,ShoeStyles_EverydayPack,ShoeStyles, Everyday Pack
+-1,ShoeStyles_SlingBack,ShoeStyles, Sling Back
+-1,ShoeStyles_HighTops,ShoeStyles, High Tops
+-1,ShoeStyles_Bootie,ShoeStyles, Bootie
+-1,ShoeStyles_CowboyBoots,ShoeStyles, Cowboy Boots
+-1,ShoeStyles_PeepToe,ShoeStyles, Peep Toe
+-1,ShoeStyles_AviatorFrames,ShoeStyles, Aviator Frames
+-1,ShoeStyles_SquareFrames,ShoeStyles, Square Frames
+-1,ShoeStyles_Cleats,ShoeStyles, Cleats
+-1,ShoeStyles_WrapFrames,ShoeStyles, Wrap Frames
+-1,ShoeStyles_RainBoot,ShoeStyles, Rain Boot
+-1,ShoeStyles_Weekender,ShoeStyles, Weekender
+-1,ShoeStyles_Espadrille,ShoeStyles, Espadrille
+-1,ShoeStyles_CatEyeFrames,ShoeStyles, Cat Eye Frames
+-1,ShoeStyles_OversizedFrames,ShoeStyles, Oversized Frames
+-1,ShoeStyles_Oblong,ShoeStyles, Oblong
+-1,ShoeStyles_Chukka,ShoeStyles, Chukka
+-1,ShoeStyles_DayPack(32Landunder),ShoeStyles, Day Pack (32L and under)
+-1,ShoeStyles_RidingBoots,ShoeStyles, Riding Boots
+-1,ShoeStyles_RoundFrames,ShoeStyles, Round Frames
+-1,ShoeStyles_OvernightBag,ShoeStyles, Overnight Bag
+-1,ShoeStyles_SemiRimlessFrames,ShoeStyles, Semi Rimless Frames
+-1,ShoeStyles_OvalFrames,ShoeStyles, Oval Frames
+-1,ShoeStyles_Moccasin,ShoeStyles, Moccasin
+-1,ShoeStyles_SnowBoots,ShoeStyles, Snow Boots
+-1,ShoeStyles_Wristlets,ShoeStyles, Wristlets
+-1,ShoeStyles_Fisherman,ShoeStyles, Fisherman
+-1,ShoeStyles_Combat,ShoeStyles, Combat
+-1,ShoeStyles_FirstWalker,ShoeStyles, First Walker
+-1,ShoeStyles_Shearling,ShoeStyles, Shearling
+-1,ShoeStyles_D'Orsay,ShoeStyles, D'Orsay
+-1,ShoeStyles_PreWalker,ShoeStyles, Pre Walker
+-1,ShoeStyles_ToeRing,ShoeStyles, Toe Ring
+-1,ShoeStyles_ToiletryBags,ShoeStyles, Toiletry Bags
+-1,ShoeStyles_Engineer,ShoeStyles, Engineer
+-1,ShoeStyles_Sling,ShoeStyles, Sling
+-1,ShoeStyles_BoardBags,ShoeStyles, Board Bags
+-1,ShoeStyles_Gladiator,ShoeStyles, Gladiator
+-1,ShoeStyles_Multi-DayPacks(33-69L),ShoeStyles, Multi-Day Packs (33-69L)
+-1,ShoeStyles_Novelty,ShoeStyles, Novelty
+-1,ShoeStyles_Scuff,ShoeStyles, Scuff
+-1,ShoeStyles_ShieldFrames,ShoeStyles, Shield Frames
+-1,ShoeStyles_Slouch,ShoeStyles, Slouch
+-1,ShoeStyles_RimlessFrames,ShoeStyles, Rimless Frames
+-1,ShoeStyles_Chelsea,ShoeStyles, Chelsea
+-1,ShoeStyles_Square,ShoeStyles, Square
+-1,ShoeStyles_Statement,ShoeStyles, Statement
+-1,ShoeStyles_SaddleShoe,ShoeStyles, Saddle Shoe
+-1,ShoeStyles_Wrap,ShoeStyles, Wrap
+-1,ShoeStyles_Jelly,ShoeStyles, Jelly
+-1,ShoeStyles_CribShoe,ShoeStyles, Crib Shoe
+-1,ShoeStyles_Wellington,ShoeStyles, Wellington
+-1,ShoeStyles_MonkStrap,ShoeStyles, Monk Strap
+-1,ShoeStyles_Infinity,ShoeStyles, Infinity
+-1,ShoeStyles_Spectator,ShoeStyles, Spectator
+-1,ShoeStyles_CameraBags,ShoeStyles, Camera Bags
+-1,ShoeStyles_Minaudiere,ShoeStyles, Minaudiere
+-1,ShoeStyles_Huarache,ShoeStyles, Huarache
+-1,ShoeStyles_Gaiter,ShoeStyles, Gaiter
+-1,ShoeStyles_Logger&Packer,ShoeStyles, Logger & Packer
+-1,ShoeStyles_Shawl,ShoeStyles, Shawl
+-1,ShoeStyles_ExpeditionPack(70Landabove),ShoeStyles, Expedition Pack (70L and above)
+-1,ShoeStyles_Horn-rimmedFrames,ShoeStyles, Horn-rimmed Frames
+-1,ShoeStyles_Pareo,ShoeStyles, Pareo
+-1,ShoeStyles_Creepers,ShoeStyles, Creepers
+-1,ShoeStyles_Other,ShoeStyles, Other
+-1,Closures_Zipper,Closures, Zipper
+-1,Closures_Slip-On,Closures, Slip-On
+-1,Closures_Laceup,Closures, Lace up
+-1,Closures_Buckle,Closures, Buckle
+-1,Closures_Button,Closures, Button
+-1,Closures_HookandLoop,Closures, Hook and Loop
+-1,Closures_Elastic,Closures, Elastic
+-1,Closures_Snap,Closures, Snap
+-1,Closures_AnkleStrap,Closures, Ankle Strap
+-1,Closures_Pull-on,Closures, Pull-on
+-1,Closures_Tie,Closures, Tie
+-1,Closures_ElasticGore,Closures, Elastic Gore
+-1,Closures_Magnetic,Closures, Magnetic
+-1,Closures_Drawstring,Closures, Drawstring
+-1,Closures_Adjustable,Closures, Adjustable
+-1,Closures_Pierced,Closures, Pierced
+-1,Closures_Toggle,Closures, Toggle
+-1,Closures_Bungee,Closures, Bungee
+-1,Closures_Push-Button,Closures, Push-Button
+-1,Closures_HookandEye,Closures, Hook and Eye
+-1,Closures_Foldover,Closures, Foldover
+-1,Closures_LobsterClaw,Closures, Lobster Claw
+-1,Closures_JewelryClasp,Closures, Jewelry Clasp
+-1,Closures_SlingBack,Closures, Sling Back
+-1,Closures_Belt,Closures, Belt
+-1,Closures_TwistLock,Closures, Twist Lock
+-1,Closures_HookandBar,Closures, Hook and Bar
+-1,Closures_ButtonFly,Closures, Button Fly
+-1,Closures_ClaspLock,Closures, Clasp Lock
+-1,Closures_PushLock,Closures, Push Lock
+-1,Closures_DeploymentBuckle,Closures, Deployment Buckle
+-1,Closures_AnkleWrap,Closures, Ankle Wrap
+-1,Closures_ButtonLoop,Closures, Button Loop
+-1,Closures_KissLock,Closures, Kiss Lock
+-1,Closures_MonkStrap,Closures, Monk Strap
+-1,Closures_HookBuckle,Closures, Hook Buckle
+-1,Closures_Clip-on,Closures, Clip-on
+-1,Closures_D-Ring,Closures, D-Ring
+-1,Closures_Expansion,Closures, Expansion
+-1,Closures_SpatStrap,Closures, Spat Strap
+-1,Closures_T-Strap,Closures, T-Strap
+-1,Closures_BoxWithTongue,Closures, Box With Tongue
+-1,Closures_FishHookBuckle,Closures, Fish Hook Buckle
+-1,Closures_O-ring,Closures, O-ring
+-1,HatTypes_BaseballCaps,HatTypes, Baseball Caps
+-1,HatTypes_SunHats,HatTypes, Sun Hats
+-1,HatTypes_Beanies,HatTypes, Beanies
+-1,HatTypes_FittedHats,HatTypes, Fitted Hats
+-1,HatTypes_Fedoras,HatTypes, Fedoras
+-1,HatTypes_NewsboyHats,HatTypes, Newsboy Hats
+-1,HatTypes_TruckerHats,HatTypes, Trucker Hats
+-1,HatTypes_CadetHats,HatTypes, Cadet Hats
+-1,HatTypes_BucketHats,HatTypes, Bucket Hats
+-1,HatTypes_Visors,HatTypes, Visors
+-1,HatTypes_Cloche,HatTypes, Cloche
+-1,HatTypes_TrapperHats,HatTypes, Trapper Hats
+-1,HatTypes_Other,HatTypes, Other
+-1,HatTypes_CowboyHats,HatTypes, Cowboy Hats
+-1,HatTypes_EarWarmerHeadbands,HatTypes, Ear Warmer Headbands
+-1,HatTypes_Berets,HatTypes, Berets
+-1,HatTypes_Bowler&DerbyHats,HatTypes, Bowler & Derby Hats
+-1,HatTypes_PorkpieHats,HatTypes, Porkpie Hats
+-1,HatTypes_FaceMasks,HatTypes, Face Masks
+-1,HatTypes_PanamaHats,HatTypes, Panama Hats
+-1,Materials_Leather,Materials, Leather
+-1,Materials_Cotton,Materials, Cotton
+-1,Materials_Polyester,Materials, Polyester
+-1,Materials_Nylon,Materials, Nylon
+-1,Materials_Spandex,Materials, Spandex
+-1,Materials_Synthetic,Materials, Synthetic
+-1,Materials_Mesh,Materials, Mesh
+-1,Materials_Suede,Materials, Suede
+-1,Materials_Rubber,Materials, Rubber
+-1,Materials_Canvas,Materials, Canvas
+-1,Materials_Elastane,Materials, Elastane
+-1,Materials_StainlessSteel,Materials, Stainless Steel
+-1,Materials_Denim,Materials, Denim
+-1,Materials_Rayon,Materials, Rayon
+-1,Materials_FauxLeather,Materials, Faux Leather
+-1,Materials_Full-grainleather,Materials, Full-grain leather
+-1,Materials_Jersey,Materials, Jersey
+-1,Materials_Nubuck,Materials, Nubuck
+-1,Materials_PatentLeather,Materials, Patent Leather
+-1,Materials_Wool,Materials, Wool
+-1,Materials_Polycarbonate,Materials, Polycarbonate
+-1,Materials_Lace,Materials, Lace
+-1,Materials_GoldTone,Materials, Gold Tone
+-1,Materials_Lycra,Materials, Lycra
+-1,Materials_Silk,Materials, Silk
+-1,Materials_SilverTone,Materials, Silver Tone
+-1,Materials_Acetate,Materials, Acetate
+-1,Materials_Acrylic,Materials, Acrylic
+-1,Materials_Viscose,Materials, Viscose
+-1,Materials_Modal,Materials, Modal
+-1,Materials_Plastic,Materials, Plastic
+-1,Materials_Satin,Materials, Satin
+-1,Materials_Linen,Materials, Linen
+-1,Materials_SterlingSilver,Materials, Sterling Silver
+-1,Materials_Polyurethane,Materials, Polyurethane
+-1,Materials_Gold-Plated,Materials, Gold-Plated
+-1,Materials_Ripstop,Materials, Ripstop
+-1,Materials_Fleece,Materials, Fleece
+-1,Materials_Steel,Materials, Steel
+-1,Materials_Crystal,Materials, Crystal
+-1,Materials_MetalFrames,Materials, Metal Frames
+-1,Materials_Microfiber,Materials, Microfiber
+-1,Materials_Merino,Materials, Merino
+-1,Materials_GrilamidFrames,Materials, Grilamid Frames
+-1,Materials_Straw,Materials, Straw
+-1,Materials_Sheepskin,Materials, Sheepskin
+-1,Materials_Neoprene,Materials, Neoprene
+-1,Materials_EVA,Materials, EVA
+-1,Materials_Ceramic,Materials, Ceramic
+-1,Materials_Semi-Precious,Materials, Semi-Precious
+-1,Materials_Glass,Materials, Glass
+-1,Materials_Polyamide,Materials, Polyamide
+-1,Materials_Aluminum,Materials, Aluminum
+-1,Materials_RoseGoldTone,Materials, Rose Gold Tone
+-1,Materials_Nappa,Materials, Nappa
+-1,Materials_Twill,Materials, Twill
+-1,Materials_Silicone,Materials, Silicone
+-1,Materials_Cork,Materials, Cork
+-1,Materials_Wood,Materials, Wood
+-1,Materials_Resin,Materials, Resin
+-1,Materials_Sheer,Materials, Sheer
+-1,Materials_Lyocell,Materials, Lyocell
+-1,Materials_Rhinestone,Materials, Rhinestone
+-1,Materials_Terry,Materials, Terry
+-1,Materials_Enameled,Materials, Enameled
+-1,Materials_Stoneware,Materials, Stoneware
+-1,Materials_Porcelain,Materials, Porcelain
+-1,Materials_Chiffon,Materials, Chiffon
+-1,Materials_Titanium,Materials, Titanium
+-1,Materials_CR39Lenses,Materials, CR 39 Lenses
+-1,Materials_Brass,Materials, Brass
+-1,Materials_Cordura,Materials, Cordura
+-1,Materials_14KGold,Materials, 14K Gold
+-1,Materials_FlexibleFrames,Materials, Flexible Frames
+-1,Materials_18KGold,Materials, 18K Gold
+-1,Materials_Chino,Materials, Chino
+-1,Materials_Pearl,Materials, Pearl
+-1,Materials_Crochet,Materials, Crochet
+-1,Materials_Jute,Materials, Jute
+-1,Materials_Shearling,Materials, Shearling
+-1,Materials_Felt,Materials, Felt
+-1,Materials_Clay,Materials, Clay
+-1,Materials_FauxFur,Materials, Faux Fur
+-1,Materials_HairCalf,Materials, Hair Calf
+-1,Materials_Elastic,Materials, Elastic
+-1,Materials_Hemp,Materials, Hemp
+-1,Materials_CastIron,Materials, Cast Iron
+-1,Materials_GlassLenses,Materials, Glass Lenses
+-1,Materials_Marcasite,Materials, Marcasite
+-1,Materials_Cashmere,Materials, Cashmere
+-1,Materials_CubicZirconium,Materials, Cubic Zirconium
+-1,Materials_Latex,Materials, Latex
+-1,Materials_Down,Materials, Down
+-1,Materials_Velvet,Materials, Velvet
+-1,Materials_Vinyl,Materials, Vinyl
+-1,Materials_Corduroy,Materials, Corduroy
+-1,Materials_AnodizedAluminum,Materials, Anodized Aluminum
+-1,Materials_LeadCrystal,Materials, Lead Crystal
+-1,Materials_Tricot,Materials, Tricot
+-1,Materials_Ramie,Materials, Ramie
+-1,Materials_WireFrames,Materials, Wire Frames
+-1,Materials_Chrome,Materials, Chrome
+-1,Materials_Pique,Materials, Pique
+-1,Materials_Tweed,Materials, Tweed
+-1,Materials_Chain,Materials, Chain
+-1,Materials_Velour,Materials, Velour
+-1,Materials_FauxSuede,Materials, Faux Suede
+-1,Materials_Diamond,Materials, Diamond
+-1,Materials_PorcelainEnamel,Materials, Porcelain Enamel
+-1,Materials_Taffeta,Materials, Taffeta
+-1,Materials_Chambray,Materials, Chambray
+-1,Materials_Gold,Materials, Gold
+-1,Materials_BoneChina,Materials, Bone China
+-1,Materials_DistressedLeather,Materials, Distressed Leather
+-1,Materials_Exotic,Materials, Exotic
+-1,Materials_Polyethylene,Materials, Polyethylene
+-1,Materials_Polypropylene,Materials, Polypropylene
+-1,Materials_Lucite,Materials, Lucite
+-1,Materials_Olefin,Materials, Olefin
+-1,Materials_Bamboo,Materials, Bamboo
+-1,Materials_GunmetalTone,Materials, Gunmetal Tone
+-1,Materials_Snakeskin,Materials, Snakeskin
+-1,Materials_Copper,Materials, Copper
+-1,Materials_Fiberglass,Materials, Fiberglass
+-1,Materials_CarbonFiber,Materials, Carbon Fiber
+-1,Materials_Ostrich,Materials, Ostrich
+-1,Materials_Crocodile,Materials, Crocodile 
+-1,Materials_Vermeil,Materials, Vermeil
+-1,Materials_Lambskin,Materials, Lambskin
+-1,Materials_Nickel-Plated,Materials, Nickel-Plated
+-1,Materials_CableKnit,Materials, Cable Knit
+-1,Materials_TemperedGlass,Materials, Tempered Glass
+-1,Materials_Jacquard,Materials, Jacquard
+-1,Materials_Deerskin,Materials, Deerskin
+-1,Materials_Precious,Materials, Precious
+-1,Materials_Chenille,Materials, Chenille
+-1,Materials_Chamois,Materials, Chamois
+-1,Materials_Alpaca,Materials, Alpaca
+-1,Materials_CottonPolyblend,Materials, Cotton Polyblend
+-1,Materials_RubberFrames,Materials, Rubber Frames
+-1,Materials_Angora,Materials, Angora
+-1,Materials_Flannel,Materials, Flannel
+-1,Materials_Raffia,Materials, Raffia
+-1,Materials_HorseHair,Materials, Horse Hair
+-1,Materials_Seersucker,Materials, Seersucker
+-1,Materials_Flax,Materials, Flax
+-1,Materials_Lizard,Materials, Lizard
+-1,Materials_Stingray,Materials, Stingray
+-1,Materials_APXLenses,Materials, APX Lenses
+-1,Materials_Bronze,Materials, Bronze
+-1,Materials_Burlap,Materials, Burlap
+-1,Materials_CastSteel,Materials, Cast Steel
+-1,Materials_Silverplate,Materials, Silverplate
+-1,Materials_Alligator,Materials, Alligator
+-1,Materials_Macrame,Materials, Macrame
+-1,Materials_MetalMesh,Materials, Metal Mesh
+-1,Materials_Tin,Materials, Tin
+-1,HeelStyle_Wedges,HeelStyle, Wedges
+-1,HeelStyle_StackedHeel,HeelStyle, Stacked Heel
+-1,HeelStyle_Stiletto,HeelStyle, Stiletto
+-1,HeelStyle_Chunky,HeelStyle, Chunky
+-1,HeelStyle_BlockHeel,HeelStyle, Block Heel
+-1,HeelStyle_KittenHeel,HeelStyle, Kitten Heel
+-1,HeelStyle_Sculpted,HeelStyle, Sculpted
+-1,HeelStyle_RockerBottom,HeelStyle, Rocker Bottom
+-1,HeelStyle_Cone,HeelStyle, Cone
+-1,HeelStyle_Cuban,HeelStyle, Cuban
+-1,HeelStyle_LouisHeel,HeelStyle, Louis Heel
+-1,StraporHandleStyle_Adjustable,StraporHandleStyle, Adjustable
+-1,StraporHandleStyle_SingleStrap,StraporHandleStyle, Single Strap
+-1,StraporHandleStyle_DoubleHandle,StraporHandleStyle, Double Handle
+-1,StraporHandleStyle_CrossBody,StraporHandleStyle, Cross Body
+-1,StraporHandleStyle_Padded,StraporHandleStyle, Padded
+-1,StraporHandleStyle_Convertible,StraporHandleStyle, Convertible
+-1,StraporHandleStyle_Detachable,StraporHandleStyle, Detachable
+-1,StraporHandleStyle_Telescoping,StraporHandleStyle, Telescoping
+-1,StraporHandleStyle_Chain,StraporHandleStyle, Chain
+-1,StraporHandleStyle_Waist,StraporHandleStyle, Waist
+-1,StraporHandleStyle_Stroller,StraporHandleStyle, Stroller
+-1,StraporHandleStyle_Ring,StraporHandleStyle, Ring
+-1,SwimsuitStyles_Bikini,SwimsuitStyles, Bikini
+-1,SwimsuitStyles_BoardShorts,SwimsuitStyles, Board Shorts
+-1,SwimsuitStyles_Halter,SwimsuitStyles, Halter
+-1,SwimsuitStyles_Bandeau,SwimsuitStyles, Bandeau
+-1,SwimsuitStyles_Rashguard,SwimsuitStyles, Rashguard
+-1,SwimsuitStyles_Tank,SwimsuitStyles, Tank
+-1,SwimsuitStyles_Trunks,SwimsuitStyles, Trunks
+-1,SwimsuitStyles_Tankini,SwimsuitStyles, Tankini
+-1,SwimsuitStyles_Crossback,SwimsuitStyles, Crossback
+-1,SwimsuitStyles_Racerback,SwimsuitStyles, Racerback
+-1,SwimsuitStyles_Skirts,SwimsuitStyles, Skirts
+-1,SwimsuitStyles_Competition,SwimsuitStyles, Competition
+-1,SwimsuitStyles_BoyShorts,SwimsuitStyles, Boy Shorts
+-1,SwimsuitStyles_SwimDresses,SwimsuitStyles, Swim Dresses
+-1,SwimsuitStyles_Monokini,SwimsuitStyles, Monokini
+-1,SwimsuitStyles_Brief,SwimsuitStyles, Brief
+-1,SwimsuitStyles_Racesuits,SwimsuitStyles, Racesuits
+-1,SwimsuitStyles_Asymmetrical,SwimsuitStyles, Asymmetrical
+-1,SwimsuitStyles_Fitness,SwimsuitStyles, Fitness
+-1,SwimsuitStyles_Other,SwimsuitStyles, Other
+-1,Styles_Athletic,Styles, Athletic
+-1,Styles_Comfort,Styles, Comfort
+-1,Styles_Thong,Styles, Thong
+-1,Styles_Wedges,Styles, Wedges
+-1,Styles_Platform,Styles, Platform
+-1,Styles_Euro,Styles, Euro
+-1,Styles_Pumps,Styles, Pumps
+-1,Styles_FlipFlops,Styles, Flip Flops
+-1,Styles_Slide,Styles, Slide
+-1,Styles_Ballerina,Styles, Ballerina
+-1,Styles_MaryJane,Styles, Mary Jane
+-1,Styles_RectangularFrames,Styles, Rectangular Frames
+-1,Styles_SchoolBag,Styles, School Bag
+-1,Styles_T-Strap,Styles, T-Strap
+-1,Styles_EverydayPack,Styles, Everyday Pack
+-1,Styles_SlingBack,Styles, Sling Back
+-1,Styles_HighTops,Styles, High Tops
+-1,Styles_Bootie,Styles, Bootie
+-1,Styles_CowboyBoots,Styles, Cowboy Boots
+-1,Styles_PeepToe,Styles, Peep Toe
+-1,Styles_AviatorFrames,Styles, Aviator Frames
+-1,Styles_SquareFrames,Styles, Square Frames
+-1,Styles_Cleats,Styles, Cleats
+-1,Styles_WrapFrames,Styles, Wrap Frames
+-1,Styles_RainBoot,Styles, Rain Boot
+-1,Styles_Weekender,Styles, Weekender
+-1,Styles_Espadrille,Styles, Espadrille
+-1,Styles_CatEyeFrames,Styles, Cat Eye Frames
+-1,Styles_OversizedFrames,Styles, Oversized Frames
+-1,Styles_Oblong,Styles, Oblong
+-1,Styles_Chukka,Styles, Chukka
+-1,Styles_DayPack(32Landunder),Styles, Day Pack (32L and under)
+-1,Styles_RidingBoots,Styles, Riding Boots
+-1,Styles_RoundFrames,Styles, Round Frames
+-1,Styles_OvernightBag,Styles, Overnight Bag
+-1,Styles_SemiRimlessFrames,Styles, Semi Rimless Frames
+-1,Styles_OvalFrames,Styles, Oval Frames
+-1,Styles_Moccasin,Styles, Moccasin
+-1,Styles_SnowBoots,Styles, Snow Boots
+-1,Styles_Wristlets,Styles, Wristlets
+-1,Styles_Fisherman,Styles, Fisherman
+-1,Styles_Combat,Styles, Combat
+-1,Styles_FirstWalker,Styles, First Walker
+-1,Styles_Shearling,Styles, Shearling
+-1,Styles_D'Orsay,Styles, D'Orsay
+-1,Styles_PreWalker,Styles, Pre Walker
+-1,Styles_ToeRing,Styles, Toe Ring
+-1,Styles_ToiletryBags,Styles, Toiletry Bags
+-1,Styles_Engineer,Styles, Engineer
+-1,Styles_Sling,Styles, Sling
+-1,Styles_BoardBags,Styles, Board Bags
+-1,Styles_Gladiator,Styles, Gladiator
+-1,Styles_Multi-DayPacks(33-69L),Styles, Multi-Day Packs (33-69L)
+-1,Styles_Novelty,Styles, Novelty
+-1,Styles_Scuff,Styles, Scuff
+-1,Styles_ShieldFrames,Styles, Shield Frames
+-1,Styles_Slouch,Styles, Slouch
+-1,Styles_RimlessFrames,Styles, Rimless Frames
+-1,Styles_Chelsea,Styles, Chelsea
+-1,Styles_Square,Styles, Square
+-1,Styles_Statement,Styles, Statement
+-1,Styles_SaddleShoe,Styles, Saddle Shoe
+-1,Styles_Wrap,Styles, Wrap
+-1,Styles_Jelly,Styles, Jelly
+-1,Styles_CribShoe,Styles, Crib Shoe
+-1,Styles_Wellington,Styles, Wellington
+-1,Styles_MonkStrap,Styles, Monk Strap
+-1,Styles_Infinity,Styles, Infinity
+-1,Styles_Spectator,Styles, Spectator
+-1,Styles_CameraBags,Styles, Camera Bags
+-1,Styles_Minaudiere,Styles, Minaudiere
+-1,Styles_Huarache,Styles, Huarache
+-1,Styles_Gaiter,Styles, Gaiter
+-1,Styles_Logger&Packer,Styles, Logger & Packer
+-1,Styles_Shawl,Styles, Shawl
+-1,Styles_ExpeditionPack(70Landabove),Styles, Expedition Pack (70L and above)
+-1,Styles_Horn-rimmedFrames,Styles, Horn-rimmed Frames
+-1,Styles_Pareo,Styles, Pareo
+-1,Styles_Creepers,Styles, Creepers
+-1,Frame_Shapes_RectangularFrames,Frame_Shapes, Rectangular Frames
+-1,Frame_Shapes_AviatorFrames,Frame_Shapes, Aviator Frames
+-1,Frame_Shapes_SquareFrames,Frame_Shapes, Square Frames
+-1,Frame_Shapes_WrapFrames,Frame_Shapes, Wrap Frames
+-1,Frame_Shapes_CatEyeFrames,Frame_Shapes, Cat Eye Frames
+-1,Frame_Shapes_OversizedFrames,Frame_Shapes, Oversized Frames
+-1,Frame_Shapes_RoundFrames,Frame_Shapes, Round Frames
+-1,Frame_Shapes_OvalFrames,Frame_Shapes, Oval Frames
+-1,Frame_Shapes_ShieldFrames,Frame_Shapes, Shield Frames
+-1,Frame_Shapes_NoveltyFrames,Frame_Shapes, Novelty Frames
+-1,Frame_Shapes_Horn-rimmedFrames,Frame_Shapes, Horn-rimmed Frames
+-1,SleeveLength_Sleeveless,SleeveLength, Sleeveless
+-1,SleeveLength_ShortSleeves,SleeveLength, Short Sleeves
+-1,SleeveLength_LongSleeves,SleeveLength, Long Sleeves
+-1,SleeveLength_3/4Sleeve,SleeveLength, 3/4 Sleeve
